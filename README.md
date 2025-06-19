@@ -9,7 +9,7 @@
 
 ## Quick start
 ```bash
-git clone https://github.com/your-username/Race-Insights.git
+git clone https://github.com/ojhasdhruv/Race-Insights.git
 cd Race-Insights
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt

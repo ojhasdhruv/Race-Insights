@@ -4,7 +4,7 @@
 
 | Feature | Status |
 |---------|--------|
-| Tyre Degradation Predictor | ⏳ in progress |
+| Tyre Degradation Predictor | ✅ prototype (AUS-23, VER vs HAM) |
 | Lap-Time Simulator | 📅 planned (July 2025) |
 
 ## Quick start
